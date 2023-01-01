@@ -20,19 +20,6 @@ export const Box = styled.div`
   gap: 20px;
   background-color: #262626;
   border-radius: 5px;
-
-  h1{
-    background-image: linear-gradient(45deg, #f3ec78, #af4261);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent; 
-    -moz-text-fill-color: transparent;
-  }
-  
-  h2{
-    color: #FFF;
-  }
 `
 
 export const Btn = styled.button`
@@ -49,4 +36,3 @@ export const Btn = styled.button`
    border: 1px solid red; 
   }
 `
-

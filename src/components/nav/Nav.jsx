@@ -7,7 +7,7 @@ const NavBar = () => {
       <Ulist>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/usestate">useState</Link></li>
-        <li><Link to="/contacts">Contacts</Link></li>
+        <li><Link to="/useeffect">useEffect</Link></li>
       </Ulist>
     </Nav>
   )
